@@ -1,0 +1,1309 @@
+HELELLJAKSDLKASLDK
+./altscan ../parameters/human.zhmm ../example/example.fa -top
+-----------------------
+top_number
+0
+-------------hmm->states
+49
+Intron ISO 4 levels
+
+Inter ISO 4 levels
+
+VVV2
+zRUN1
+13380,13380
+zRUN2
+mark1
+mark2
+mark3
+mark4
+TTTTT1
+showmark fin -1
+Mario
+inside filter 100
+1 is freed
+5 is freed
+6 is freed
+18 is freed
+30 is freed
+41 is freed
+60 is freed
+61 is freed
+71 is freed
+95 is freed
+7 is freed
+25 is freed
+26 is freed
+66 is freed
+9 is freed
+37 is freed
+38 is freed
+82 is freed
+16 is freed
+56 is freed
+57 is freed
+27 is freed
+90 is freed
+91 is freed
+36 is freed
+40 is freed
+45 is freed
+50 is freed
+51 is freed
+52 is freed
+55 is freed
+62 is freed
+63 is freed
+64 is freed
+72 is freed
+74 is freed
+79 is freed
+87 is freed
+89 is freed
+93 is freed
+96 is freed
+99 is freed
+HUGE_SIZE 0
+TMP_SIZE 58
+POTENT_SIZE 0
+Odyssey
+14: 50-1047
+31: 1048-1224
+2: 1225-1993
+38: 1994-2169
+5: 2170-2304
+38: 2305-2463
+5: 2464-6779
+38: 6780-6893
+5: 6894-7367
+42: 7368-7504
+12: 7505-12003
+30: 12004-12308
+16: 12309-13329
+BUBBLE FIN
+RANGEguy 0 - 13380 
+FreeViterSingleNew 0
+before free nrange
+after free nrange
+QWQQ-1
+# ./altscan ../parameters/human.zhmm ../example/example.fa -top
+# Date: Wed Apr 17 20:48:58 2019
+# altscan
+# Genome Parameters: ../parameters/human.zhmm
+WWW0:
+WWW1:
+WWW2:
+WWW3:
+# Completed in 26.76 CPU seconds
+SCOUT:
+TOP 1: 1869.737678
+TOP 2: 1854.028341
+TOP 3: 1850.499869
+TOP 4: 1844.614777
+TOP 5: 1838.365720
+TOP 6: 1835.968155
+TOP 7: 1833.820979
+TOP 8: 1832.293665
+TOP 9: 1830.951442
+TOP 10: 1830.654975
+TOP 11: 1830.292508
+TOP 12: 1829.870661
+TOP 13: 1829.001103
+TOP 14: 1828.958298
+TOP 15: 1828.765194
+TOP 16: 1826.629400
+TOP 17: 1826.342190
+TOP 18: 1825.429827
+TOP 19: 1823.759610
+TOP 20: 1823.384961
+TOP 21: 1822.880102
+TOP 22: 1822.656382
+TOP 23: 1822.050812
+TOP 24: 1821.695827
+TOP 25: 1821.654941
+TOP 26: 1819.801800
+TOP 27: 1819.288156
+TOP 28: 1819.220275
+TOP 29: 1819.127911
+TOP 30: 1817.517620
+TOP 31: 1817.158586
+TOP 32: 1816.879349
+TOP 33: 1816.631874
+TOP 34: 1815.760794
+TOP 35: 1815.691804
+TOP 36: 1815.147793
+TOP 37: 1814.945637
+TOP 38: 1814.233480
+TOP 39: 1813.663331
+TOP 40: 1813.291766
+TOP 41: 1813.242819
+TOP 42: 1813.103403
+TOP 43: 1812.086304
+TOP 44: 1811.810476
+TOP 45: 1811.621805
+TOP 46: 1811.417166
+TOP 47: 1811.054209
+TOP 48: 1810.898113
+TOP 49: 1810.816627
+TOP 50: 1809.821913
+TOP 51: 1809.806712
+TOP 52: 1809.804186
+TOP 53: 1809.763294
+TOP 54: 1809.216767
+TOP 55: 1808.557833
+TOP 56: 1808.367150
+TOP 57: 1807.736225
+TOP 58: 1807.675623
+TOP 59: -340282346638528859811704183484516925440.000000
+TOP 60: -340282346638528859811704183484516925440.000000
+TOP 61: -340282346638528859811704183484516925440.000000
+TOP 62: -340282346638528859811704183484516925440.000000
+TOP 63: -340282346638528859811704183484516925440.000000
+TOP 64: -340282346638528859811704183484516925440.000000
+TOP 65: -340282346638528859811704183484516925440.000000
+TOP 66: -340282346638528859811704183484516925440.000000
+TOP 67: -340282346638528859811704183484516925440.000000
+TOP 68: -340282346638528859811704183484516925440.000000
+TOP 69: -340282346638528859811704183484516925440.000000
+TOP 70: -340282346638528859811704183484516925440.000000
+TOP 71: -340282346638528859811704183484516925440.000000
+TOP 72: -340282346638528859811704183484516925440.000000
+TOP 73: -340282346638528859811704183484516925440.000000
+TOP 74: -340282346638528859811704183484516925440.000000
+TOP 75: -340282346638528859811704183484516925440.000000
+TOP 76: -340282346638528859811704183484516925440.000000
+TOP 77: -340282346638528859811704183484516925440.000000
+TOP 78: -340282346638528859811704183484516925440.000000
+TOP 79: -340282346638528859811704183484516925440.000000
+TOP 80: -340282346638528859811704183484516925440.000000
+TOP 81: -340282346638528859811704183484516925440.000000
+TOP 82: -340282346638528859811704183484516925440.000000
+TOP 83: -340282346638528859811704183484516925440.000000
+TOP 84: -340282346638528859811704183484516925440.000000
+TOP 85: -340282346638528859811704183484516925440.000000
+TOP 86: -340282346638528859811704183484516925440.000000
+TOP 87: -340282346638528859811704183484516925440.000000
+TOP 88: -340282346638528859811704183484516925440.000000
+TOP 89: -340282346638528859811704183484516925440.000000
+TOP 90: -340282346638528859811704183484516925440.000000
+TOP 91: -340282346638528859811704183484516925440.000000
+TOP 92: -340282346638528859811704183484516925440.000000
+TOP 93: -340282346638528859811704183484516925440.000000
+TOP 94: -340282346638528859811704183484516925440.000000
+TOP 95: -340282346638528859811704183484516925440.000000
+TOP 96: -340282346638528859811704183484516925440.000000
+TOP 97: -340282346638528859811704183484516925440.000000
+TOP 98: -340282346638528859811704183484516925440.000000
+TOP 99: -340282346638528859811704183484516925440.000000
+TOP 100: -340282346638528859811704183484516925440.000000
+Q0
+
+#Transcript: 1 
+# Score: 1869.74
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.1";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.1";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.1";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.1";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.1";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.1";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.1";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.1";
+Q1
+
+#Transcript: 2 
+# Score: 1854.03
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.2";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.2";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.2";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.2";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.2";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.2";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.2";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.2";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.2";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.2";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.2";
+Q2
+
+#Transcript: 3 
+# Score: 1850.5
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.3";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.3";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.3";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.3";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.3";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.3";
+example.fa	altscan	CDS	9426	9559	56	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.3";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.3";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.3";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.3";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.3";
+Q3
+
+#Transcript: 4 
+# Score: 1844.61
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.4";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.4";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.4";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.4";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.4";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.4";
+example.fa	altscan	CDS	9696	9729	41	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.4";
+example.fa	altscan	CDS	10732	10806	193	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.4";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.4";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.4";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.4";
+Q4
+
+#Transcript: 5 
+# Score: 1838.37
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.5";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.5";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.5";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.5";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.5";
+example.fa	altscan	CDS	6864	6933	106	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.5";
+example.fa	altscan	CDS	7296	7455	396	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.5";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.5";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.5";
+Q5
+
+#Transcript: 6 
+# Score: 1835.97
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.6";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.6";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.6";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.6";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.6";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.6";
+example.fa	altscan	CDS	9447	9559	41	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.6";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.6";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.6";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.6";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.6";
+Q6
+
+#Transcript: 7 
+# Score: 1833.82
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.7";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.7";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.7";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.7";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.7";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.7";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.7";
+example.fa	altscan	CDS	10684	10922	157	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.7";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.7";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.7";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.7";
+Q7
+
+#Transcript: 8 
+# Score: 1832.29
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.8";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.8";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.8";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.8";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.8";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.8";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.8";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.8";
+example.fa	altscan	CDS	11533	11693	94	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.8";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.8";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.8";
+Q8
+
+#Transcript: 9 
+# Score: 1830.95
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.9";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.9";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.9";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.9";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.9";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.9";
+example.fa	altscan	CDS	10772	10922	98	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.9";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.9";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.9";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.9";
+Q9
+
+#Transcript: 10 
+# Score: 1830.65
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.10";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.10";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.10";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.10";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.10";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.10";
+example.fa	altscan	CDS	11955	12280	478	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.10";
+example.fa	altscan	start_codon	12278	12280	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.10";
+Q10
+
+#Transcript: 11 
+# Score: 1830.29
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.11";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.11";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.11";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.11";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.11";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.11";
+example.fa	altscan	CDS	9426	9559	56	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.11";
+example.fa	altscan	CDS	10684	10922	157	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.11";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.11";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.11";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.11";
+Q11
+
+#Transcript: 12 
+# Score: 1829.87
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.12";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.12";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.12";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.12";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.12";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.12";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.12";
+example.fa	altscan	CDS	10732	10806	136	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.12";
+example.fa	altscan	CDS	11540	11693	125	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.12";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.12";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.12";
+Q12
+
+#Transcript: 13 
+# Score: 1829
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.13";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.13";
+example.fa	altscan	CDS	1903	2120	558	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.13";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.13";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.13";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.13";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.13";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.13";
+Q13
+
+#Transcript: 14 
+# Score: 1828.96
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.14";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.14";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.14";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.14";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.14";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.14";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.14";
+example.fa	altscan	CDS	10684	10806	135	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.14";
+example.fa	altscan	CDS	11540	11693	125	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.14";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.14";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.14";
+Q14
+
+#Transcript: 15 
+# Score: 1828.77
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.15";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.15";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.15";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.15";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.15";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.15";
+example.fa	altscan	CDS	9426	9559	56	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.15";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.15";
+example.fa	altscan	CDS	11533	11693	94	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.15";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.15";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.15";
+Q15
+
+#Transcript: 16 
+# Score: 1826.63
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.16";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.16";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.16";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.16";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.16";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.16";
+example.fa	altscan	CDS	8650	8681	33	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.16";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.16";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.16";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.16";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.16";
+Q16
+
+#Transcript: 17 
+# Score: 1826.34
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.17";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.17";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.17";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.17";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.17";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.17";
+example.fa	altscan	CDS	9426	9559	56	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.17";
+example.fa	altscan	CDS	10732	10806	136	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.17";
+example.fa	altscan	CDS	11540	11693	125	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.17";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.17";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.17";
+Q17
+
+#Transcript: 18 
+# Score: 1825.43
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.18";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.18";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.18";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.18";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.18";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.18";
+example.fa	altscan	CDS	9426	9559	56	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.18";
+example.fa	altscan	CDS	10684	10806	135	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.18";
+example.fa	altscan	CDS	11540	11693	125	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.18";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.18";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.18";
+Q18
+
+#Transcript: 19 
+# Score: 1823.76
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.19";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.19";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.19";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.19";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.19";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.19";
+example.fa	altscan	CDS	9471	9655	28	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.19";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.19";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.19";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.19";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.19";
+Q19
+
+#Transcript: 20 
+# Score: 1823.38
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.20";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.20";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.20";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.20";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.20";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.20";
+example.fa	altscan	CDS	11955	12195	389	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.20";
+Q20
+
+#Transcript: 21 
+# Score: 1822.88
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.21";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.21";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.21";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.21";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.21";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.21";
+example.fa	altscan	CDS	9696	9729	41	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.21";
+example.fa	altscan	CDS	10732	10806	193	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.21";
+example.fa	altscan	CDS	11533	11693	94	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.21";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.21";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.21";
+Q21
+
+#Transcript: 22 
+# Score: 1822.66
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.22";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.22";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.22";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.22";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.22";
+example.fa	altscan	CDS	6864	6933	106	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.22";
+example.fa	altscan	CDS	7296	7455	396	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.22";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.22";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.22";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.22";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.22";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.22";
+Q22
+
+#Transcript: 23 
+# Score: 1822.05
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.23";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.23";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.23";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.23";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.23";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.23";
+example.fa	altscan	CDS	10673	10922	88	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.23";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.23";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.23";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.23";
+Q23
+
+#Transcript: 24 
+# Score: 1821.7
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.24";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.24";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.24";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.24";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.24";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.24";
+example.fa	altscan	CDS	9486	9559	27	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.24";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.24";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.24";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.24";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.24";
+Q24
+
+#Transcript: 25 
+# Score: 1821.65
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.25";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.25";
+example.fa	altscan	CDS	1849	2120	550	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.25";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.25";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.25";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.25";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.25";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.25";
+Q25
+
+#Transcript: 26 
+# Score: 1819.8
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.26";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.26";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.26";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.26";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.26";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.26";
+example.fa	altscan	CDS	8650	8713	16	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.26";
+example.fa	altscan	CDS	10732	10806	193	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.26";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.26";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.26";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.26";
+Q26
+
+#Transcript: 27 
+# Score: 1819.29
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.27";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.27";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.27";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.27";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.27";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.27";
+example.fa	altscan	CDS	10673	10806	68	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.27";
+example.fa	altscan	CDS	11540	11693	125	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.27";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.27";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.27";
+Q27
+
+#Transcript: 28 
+# Score: 1819.22
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.28";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.28";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.28";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.28";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.28";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.28";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.28";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.28";
+example.fa	altscan	CDS	11049	11141	87	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.28";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.28";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.28";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.28";
+Q28
+
+#Transcript: 29 
+# Score: 1819.13
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.29";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.29";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.29";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.29";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.29";
+example.fa	altscan	CDS	6864	6933	106	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.29";
+example.fa	altscan	CDS	7296	7455	396	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.29";
+example.fa	altscan	CDS	9426	9559	56	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.29";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.29";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.29";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.29";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.29";
+Q29
+
+#Transcript: 30 
+# Score: 1817.52
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.30";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.30";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.30";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.30";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.30";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.30";
+example.fa	altscan	CDS	7557	7644	13	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.30";
+example.fa	altscan	CDS	10732	10806	193	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.30";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.30";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.30";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.30";
+Q30
+
+#Transcript: 31 
+# Score: 1817.16
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.31";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.31";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.31";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.31";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.31";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.31";
+example.fa	altscan	CDS	9121	9275	22	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.31";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.31";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.31";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.31";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.31";
+Q31
+
+#Transcript: 32 
+# Score: 1816.88
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.32";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.32";
+example.fa	altscan	CDS	1241	1363	64	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.32";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.32";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.32";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.32";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.32";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.32";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.32";
+Q32
+
+#Transcript: 33 
+# Score: 1816.63
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.33";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.33";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.33";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.33";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.33";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.33";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.33";
+example.fa	altscan	CDS	10732	10951	130	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.33";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.33";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.33";
+Q33
+
+#Transcript: 34 
+# Score: 1815.76
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.34";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.34";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.34";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.34";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.34";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.34";
+example.fa	altscan	CDS	9447	9559	41	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.34";
+example.fa	altscan	CDS	10684	10922	157	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.34";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.34";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.34";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.34";
+Q34
+
+#Transcript: 35 
+# Score: 1815.69
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.35";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.35";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.35";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.35";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.35";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.35";
+example.fa	altscan	CDS	9426	9559	56	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.35";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.35";
+example.fa	altscan	CDS	11049	11141	87	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.35";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.35";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.35";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.35";
+Q35
+
+#Transcript: 36 
+# Score: 1815.15
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.36";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.36";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.36";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.36";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.36";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.36";
+example.fa	altscan	CDS	10732	10951	81	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.36";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.36";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.36";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.36";
+Q36
+
+#Transcript: 37 
+# Score: 1814.95
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.37";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.37";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.37";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.37";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.37";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.37";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.37";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.37";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.37";
+example.fa	altscan	CDS	11955	12280	478	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.37";
+example.fa	altscan	start_codon	12278	12280	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.37";
+Q37
+
+#Transcript: 38 
+# Score: 1814.23
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.38";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.38";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.38";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.38";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.38";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.38";
+example.fa	altscan	CDS	9447	9559	41	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.38";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.38";
+example.fa	altscan	CDS	11533	11693	94	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.38";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.38";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.38";
+Q38
+
+#Transcript: 39 
+# Score: 1813.66
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.39";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.39";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.39";
+example.fa	altscan	CDS	2256	2492	322	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.39";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.39";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.39";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.39";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.39";
+Q39
+
+#Transcript: 40 
+# Score: 1813.29
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.40";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.40";
+example.fa	altscan	CDS	1903	2120	558	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.40";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.40";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.40";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.40";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.40";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.40";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.40";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.40";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.40";
+Q40
+
+#Transcript: 41 
+# Score: 1813.24
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.41";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.41";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.41";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.41";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.41";
+example.fa	altscan	CDS	6864	6933	106	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.41";
+example.fa	altscan	CDS	7296	7455	396	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.41";
+example.fa	altscan	CDS	9696	9729	41	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.41";
+example.fa	altscan	CDS	10732	10806	193	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.41";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.41";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.41";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.41";
+Q41
+
+#Transcript: 42 
+# Score: 1813.1
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.42";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.42";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.42";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.42";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.42";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.42";
+example.fa	altscan	CDS	9426	9559	56	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.42";
+example.fa	altscan	CDS	10732	10951	130	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.42";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.42";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.42";
+Q42
+
+#Transcript: 43 
+# Score: 1812.09
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.43";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.43";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.43";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.43";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.43";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.43";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.43";
+example.fa	altscan	CDS	10684	10922	157	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.43";
+example.fa	altscan	CDS	11533	11693	94	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.43";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.43";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.43";
+Q43
+
+#Transcript: 44 
+# Score: 1811.81
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.44";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.44";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.44";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.44";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.44";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.44";
+example.fa	altscan	CDS	9447	9559	41	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.44";
+example.fa	altscan	CDS	10732	10806	136	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.44";
+example.fa	altscan	CDS	11540	11693	125	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.44";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.44";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.44";
+Q44
+
+#Transcript: 45 
+# Score: 1811.62
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.45";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.45";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.45";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.45";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.45";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.45";
+example.fa	altscan	CDS	9696	9729	41	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.45";
+example.fa	altscan	CDS	10732	10922	154	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.45";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.45";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.45";
+Q45
+
+#Transcript: 46 
+# Score: 1811.42
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.46";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.46";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.46";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.46";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.46";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.46";
+example.fa	altscan	CDS	9426	9559	56	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.46";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.46";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.46";
+example.fa	altscan	CDS	11955	12280	478	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.46";
+example.fa	altscan	start_codon	12278	12280	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.46";
+Q46
+
+#Transcript: 47 
+# Score: 1811.05
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.47";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.47";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.47";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.47";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.47";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.47";
+example.fa	altscan	CDS	10429	10504	7	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.47";
+example.fa	altscan	CDS	10732	10806	193	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.47";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.47";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.47";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.47";
+Q47
+
+#Transcript: 48 
+# Score: 1810.9
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.48";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.48";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.48";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.48";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.48";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.48";
+example.fa	altscan	CDS	9447	9559	41	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.48";
+example.fa	altscan	CDS	10684	10806	135	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.48";
+example.fa	altscan	CDS	11540	11693	125	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.48";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.48";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.48";
+Q48
+
+#Transcript: 49 
+# Score: 1810.82
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.49";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.49";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.49";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.49";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.49";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.49";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.49";
+example.fa	altscan	CDS	11540	11693	125	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.49";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.49";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.49";
+Q49
+
+#Transcript: 50 
+# Score: 1809.82
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.50";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.50";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.50";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.50";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.50";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.50";
+example.fa	altscan	CDS	9696	9729	41	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.50";
+example.fa	altscan	CDS	10732	10951	141	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.50";
+example.fa	altscan	CDS	11540	11693	125	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.50";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.50";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.50";
+Q50
+
+#Transcript: 51 
+# Score: 1809.81
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.51";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.51";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.51";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.51";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.51";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.51";
+example.fa	altscan	CDS	9696	9729	41	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.51";
+example.fa	altscan	CDS	10732	10806	193	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.51";
+example.fa	altscan	CDS	11049	11141	87	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.51";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.51";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.51";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.51";
+Q51
+
+#Transcript: 52 
+# Score: 1809.8
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.52";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.52";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.52";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.52";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.52";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.52";
+example.fa	altscan	CDS	8989	9034	6	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.52";
+example.fa	altscan	CDS	10732	10806	193	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.52";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.52";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.52";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.52";
+Q52
+
+#Transcript: 53 
+# Score: 1809.76
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.53";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.53";
+example.fa	altscan	CDS	1903	2120	558	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.53";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.53";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.53";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.53";
+example.fa	altscan	CDS	9426	9559	56	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.53";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.53";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.53";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.53";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.53";
+Q53
+
+#Transcript: 54 
+# Score: 1809.22
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.54";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.54";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.54";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.54";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.54";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.54";
+example.fa	altscan	CDS	10772	10922	98	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.54";
+example.fa	altscan	CDS	11533	11693	94	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.54";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.54";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.54";
+Q54
+
+#Transcript: 55 
+# Score: 1808.56
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.55";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.55";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.55";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.55";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.55";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.55";
+example.fa	altscan	CDS	9426	9559	56	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.55";
+example.fa	altscan	CDS	10684	10922	157	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.55";
+example.fa	altscan	CDS	11533	11693	94	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.55";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.55";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.55";
+Q55
+
+#Transcript: 56 
+# Score: 1808.37
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.56";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.56";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.56";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.56";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.56";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.56";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.56";
+example.fa	altscan	CDS	10732	10806	136	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.56";
+example.fa	altscan	CDS	11555	11693	104	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.56";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.56";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.56";
+Q56
+
+#Transcript: 57 
+# Score: 1807.74
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.57";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.57";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.57";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.57";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.57";
+example.fa	altscan	CDS	7004	7114	60	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.57";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.57";
+example.fa	altscan	CDS	11955	12259	517	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.57";
+example.fa	altscan	start_codon	12257	12259	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.57";
+Q57
+
+#Transcript: 58 
+# Score: 1807.68
+#
+example.fa	altscan	stop_codon	999	1001	.	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.58";
+example.fa	altscan	CDS	1002	1175	740	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.58";
+example.fa	altscan	CDS	1945	2120	599	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.58";
+example.fa	altscan	CDS	2256	2414	379	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.58";
+example.fa	altscan	CDS	6731	6844	302	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.58";
+example.fa	altscan	CDS	7319	7455	418	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.58";
+example.fa	altscan	CDS	9471	9559	59	-	0	gene_id "example.fa.001"; transcript_id "example.fa.001.58";
+example.fa	altscan	CDS	10732	10922	178	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.58";
+example.fa	altscan	CDS	11572	11693	116	-	1	gene_id "example.fa.001"; transcript_id "example.fa.001.58";
+example.fa	altscan	CDS	11955	12195	389	-	2	gene_id "example.fa.001"; transcript_id "example.fa.001.58";
+Q58
+
+#Transcript: 59 
+# Score: -3.40282e+38
+#
+Q59
+
+#Transcript: 60 
+# Score: -3.40282e+38
+#
+Q60
+
+#Transcript: 61 
+# Score: -3.40282e+38
+#
+Q61
+
+#Transcript: 62 
+# Score: -3.40282e+38
+#
+Q62
+
+#Transcript: 63 
+# Score: -3.40282e+38
+#
+Q63
+
+#Transcript: 64 
+# Score: -3.40282e+38
+#
+Q64
+
+#Transcript: 65 
+# Score: -3.40282e+38
+#
+Q65
+
+#Transcript: 66 
+# Score: -3.40282e+38
+#
+Q66
+
+#Transcript: 67 
+# Score: -3.40282e+38
+#
+Q67
+
+#Transcript: 68 
+# Score: -3.40282e+38
+#
+Q68
+
+#Transcript: 69 
+# Score: -3.40282e+38
+#
+Q69
+
+#Transcript: 70 
+# Score: -3.40282e+38
+#
+Q70
+
+#Transcript: 71 
+# Score: -3.40282e+38
+#
+Q71
+
+#Transcript: 72 
+# Score: -3.40282e+38
+#
+Q72
+
+#Transcript: 73 
+# Score: -3.40282e+38
+#
+Q73
+
+#Transcript: 74 
+# Score: -3.40282e+38
+#
+Q74
+
+#Transcript: 75 
+# Score: -3.40282e+38
+#
+Q75
+
+#Transcript: 76 
+# Score: -3.40282e+38
+#
+Q76
+
+#Transcript: 77 
+# Score: -3.40282e+38
+#
+Q77
+
+#Transcript: 78 
+# Score: -3.40282e+38
+#
+Q78
+
+#Transcript: 79 
+# Score: -3.40282e+38
+#
+Q79
+
+#Transcript: 80 
+# Score: -3.40282e+38
+#
+Q80
+
+#Transcript: 81 
+# Score: -3.40282e+38
+#
+Q81
+
+#Transcript: 82 
+# Score: -3.40282e+38
+#
+Q82
+
+#Transcript: 83 
+# Score: -3.40282e+38
+#
+Q83
+
+#Transcript: 84 
+# Score: -3.40282e+38
+#
+Q84
+
+#Transcript: 85 
+# Score: -3.40282e+38
+#
+Q85
+
+#Transcript: 86 
+# Score: -3.40282e+38
+#
+Q86
+
+#Transcript: 87 
+# Score: -3.40282e+38
+#
+Q87
+
+#Transcript: 88 
+# Score: -3.40282e+38
+#
+Q88
+
+#Transcript: 89 
+# Score: -3.40282e+38
+#
+Q89
+
+#Transcript: 90 
+# Score: -3.40282e+38
+#
+Q90
+
+#Transcript: 91 
+# Score: -3.40282e+38
+#
+Q91
+
+#Transcript: 92 
+# Score: -3.40282e+38
+#
+Q92
+
+#Transcript: 93 
+# Score: -3.40282e+38
+#
+Q93
+
+#Transcript: 94 
+# Score: -3.40282e+38
+#
+Q94
+
+#Transcript: 95 
+# Score: -3.40282e+38
+#
+Q95
+
+#Transcript: 96 
+# Score: -3.40282e+38
+#
+Q96
+
+#Transcript: 97 
+# Score: -3.40282e+38
+#
+Q97
+
+#Transcript: 98 
+# Score: -3.40282e+38
+#
+Q98
+
+#Transcript: 99 
+# Score: -3.40282e+38
+#
+Q99
+
+#Transcript: 100 
+# Score: -3.40282e+38
+#
+QQQQ3:
+QQQQ4:

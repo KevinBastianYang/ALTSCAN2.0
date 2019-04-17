@@ -72,7 +72,7 @@ struct zTrellisCell {
 
 	/* information in bitwise manner */
 	
-	zSFVec        *submax; /* for states of EXPLICIT and INTERNAL   */
+	/////kevin zSFVec        *submax; /* for states of EXPLICIT and INTERNAL   */
 	/* types. Keeps highest-scoring features */ 
 	/* for each range of length distribution */
 	/* see zExplicitTrans function in        */

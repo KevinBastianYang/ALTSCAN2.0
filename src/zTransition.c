@@ -18,10 +18,10 @@ void zSetScanners(zScanner**, zScanner**, zScanner**,
                   zTrellis*, zStrIdx, bool);
 score_t zScoreScanners(zTrellis *, zStrIdx, const char *, coor_t,
                        coor_t, bool, int *, int *);
-void zSubInternalTrans(zTrellis *, int, int, coor_t, int, int, int,
+/*kevin void zSubInternalTrans(zTrellis *, int, int, coor_t, int, int, int,
                        score_t, zDistribution *);
 void zSubExplicitTrans(zTrellis *, int, int, coor_t, int, coor_t,
-                       coor_t, zDistribution *);
+                       coor_t, zDistribution *);*/
 
 int zReadTransition (FILE *stream, zTransition *t, int iso_groups) {
 	char          from[17], to[17];
@@ -159,16 +159,20 @@ int zCompatibleJumpToExon (zDNA *dna, zPhase_t phase, zSfeature *exon) {
 	return 1; /* shush */
 }
 
+
+
+/*kevin
 static void zExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t i) 
 {
-	printf("zExplicitTrans shown\n");
+	printf("-------------zExplicitTrans shown\n");*/
 	/* Transition function for a state with arbitrary length distribution. */
 	/* The length distribution can be defined as a single function (or a   */
 	/* single range of score values) or as a number of consecutive ranges, */
 	/* each defined as a function or a set of score values. INTERNAL state */
 	/* (single geometric distribition) is also dealt with here (see below) */
  
-	int di; /* indexes ranges of length distribution */
+	///kevin int di; /* indexes ranges of length distribution */
+	/*kevin
 	int iso_group, submax_from_state, submax_length;
 	zPhase_t int_phase, ext_phase;
 	score_t submax_score;
@@ -177,7 +181,7 @@ static void zExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t
 	coor_t min, max;
 
 	if (EXTERNAL == trellis->hmm->state[from_state].type) 
-		{ /*  check phase */
+		{ /*  check phase *
 			int_phase = trellis->hmm->state[state].phase;
 			ext_phase = trellis->hmm->state[from_state].phase;
 			if (ext_phase != int_phase) return;
@@ -189,14 +193,14 @@ static void zExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t
 	/* Iterate over all ranges of length distribution which are compatible */
 	/* with position i. The highest-scoring feature for each range will be */
 	/* stored in trellis->cell[state][i].submax->elem[di].                  */
-
+	/*kevin
 	di = 0;
 	while ((di < group->duration[iso_group].distributions) 
 		   && ((i-PADDING+1) >= group->duration[iso_group].distribution[di].start))
 		{
 			d = &group->duration[iso_group].distribution[di];
 
-			/* Set min and max start coordinates for the range */
+			/* Set min and max start coordinates for the range 
 			max = i - (d->start);
 			if (d->end > (i-PADDING+1))
 				{
@@ -207,10 +211,10 @@ static void zExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t
 					min = i - (d->end);
 				}
 
-			if (d->type == GEOMETRIC) /* the range has geometric distribution */
+			if (d->type == GEOMETRIC) /* the range has geometric distribution 
 				{
 					/* submax_from_state, submax_score and submax_length refer to */ 
-					/* the highest-scoring feature in this range at position i-1  */
+					/* the highest-scoring feature in this range at position i-1  
 					
 					submax_score = trellis->cell[i-1][state].submax->elem[di].intrinsic_score;
 					submax_from_state = trellis->cell[i-1][state].submax->elem[di].from_state;
@@ -222,7 +226,7 @@ static void zExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t
 						{
 							/* the range extends into infinity OR highest-scoring feature  */
 							/* in this range at position i-1 connects to a different state */
-							/* INTERNAL states are included in this category               */
+							/* INTERNAL states are included in this category               
 							
 							zSubInternalTrans(trellis, from_state, state, i, di,
 											  submax_from_state, submax_length, submax_score, d);
@@ -230,7 +234,7 @@ static void zExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t
 					else
 						{
 							/* the range is bounded from above AND optimal feature at */
-							/* position i-1 connects to the same state                */
+							/* position i-1 connects to the same state                
 
 							if (submax_length < ((int) d->end))
 								{
@@ -240,19 +244,19 @@ static void zExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t
 							else
 								{
 									/* At submax_length == d->end the range has to be  */
-									/* handled explicitly (can't argue with the math!) */
+									/* handled explicitly (can't argue with the math!) 
 
 									zSubExplicitTrans(trellis, from_state, state, i, di, min, 
 													  max, d);
 								}
 						}
 				}
-			else /* all non-geometric distributions are handled explicitly */
+			else /* all non-geometric distributions are handled explicitly 
 				{
 					zSubExplicitTrans(trellis, from_state, state, i, di, min, max, d);
 				}  
 
-			/* Set overall highest-scoring feature, if necessary */
+			/* Set overall highest-scoring feature, if necessary 
 			// if (trellis->cell[state][i].submax->elem[di].score > trellis->cell[state][i].score[0])
 			// 	{
 			// 		trellis->cell[state][i].score[0] = 
@@ -276,8 +280,8 @@ static void zExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t
 
 			di++;
 		}
-}
-
+}*/
+/*kevin
 void zSubInternalTrans (zTrellis *trellis, int from_state, int state, coor_t i, 
 						int di, int subtrace, int sublen, score_t subscore, zDistribution *d)
 {
@@ -287,7 +291,7 @@ void zSubInternalTrans (zTrellis *trellis, int from_state, int state, coor_t i,
 	zSfeature maxf;
 
 	int flag = 1; /*  1 stands for estseq structure consistent    */
-	/* -1 stands for estseq structure inconsistent  */
+	/* -1 stands for estseq structure inconsistent  
 	int do_return = 0;
 
 	const char *state_name = zStrIdx2Char(trellis->hmm->state[state].name);
@@ -296,7 +300,7 @@ void zSubInternalTrans (zTrellis *trellis, int from_state, int state, coor_t i,
 	ps = ('-' != trellis->hmm->state[state].strand);
 	name = trellis->hmm->state[state].model;
 
-	/* Consider boundary (min. length in range) separately */
+	/* Consider boundary (min. length in range) separately 
 	maxf.end = i;
 	maxf.start = i - (d->start) + 1;
 	maxf.from_state = from_state;
@@ -315,7 +319,7 @@ void zSubInternalTrans (zTrellis *trellis, int from_state, int state, coor_t i,
 	/* is inconsistent with EST sequence   */
 	/* (see zScoreScanners function)       */
 
-	/* Now deal with the rest of length values in range       */
+	/* Now deal with the rest of length values in range       
 
 	score = MIN_SCORE; 
 
@@ -332,15 +336,15 @@ void zSubInternalTrans (zTrellis *trellis, int from_state, int state, coor_t i,
 
 			if (do_return) return; /* do_return == TRUE means the feature */
 			/* is inconsistent with EST sequence   */
-			/* (see zScoreScanners function)       */
+			/* (see zScoreScanners function)       
 		}
 
 	/* Find highest-scoring feature in this range at position i */
-	/* and store it in trellis->cell[state][i].submax->elem[di]  */
+	/* and store it in trellis->cell[state][i].submax->elem[di]  
 
 	if (score > maxf.score)
 		{
-			maxf.start = i - sublen; /* = i - (sublen+1) + 1 */
+			maxf.start = i - sublen; /* = i - (sublen+1) + 1 
 			maxf.score = score;
 			maxf.intrinsic_score = subscore + scan_score;
 		}
@@ -353,9 +357,9 @@ void zSubInternalTrans (zTrellis *trellis, int from_state, int state, coor_t i,
 			trellis->cell[i][state].submax->elem[di].end = maxf.end;
 			trellis->cell[i][state].submax->elem[di].from_state = maxf.from_state;
 		}
-}
+}*/
 
-
+/*kevin
 void zSubExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t i,
                         int di, coor_t min, coor_t max, zDistribution *d)
 {
@@ -364,11 +368,11 @@ void zSubExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t i,
 	score_t    tscore, scan_score, total_score, best_score;
 	coor_t     best_length = 0, dna_len, length, prev_start;
 	coor_t     start; /* start coord of external feature that preceeds */
-	/* the current explicit feature                  */
+	/* the current explicit feature                  
 	int        extind;
             
 	int flag = 1; /*  1 stands for estseq structure consistent    */
-	/* -1 stands for estseq structure inconsistent  */
+	/* -1 stands for estseq structure inconsistent  
 	int do_return;  
         
 	const char *state_name = zStrIdx2Char(trellis->hmm->state[state].name);
@@ -379,7 +383,7 @@ void zSubExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t i,
 	dna_len   = dna->length;
 	name      = trellis->hmm->state[state].model;
                         
-	if (EXTERNAL == trellis->hmm->state[from_state].type) { /* check phases */
+	if (EXTERNAL == trellis->hmm->state[from_state].type) { /* check phases 
 		int_phase = trellis->hmm->state[state].phase;
 		ext_phase = trellis->hmm->state[from_state].phase;
 		if (ext_phase != int_phase) return;
@@ -387,7 +391,7 @@ void zSubExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t i,
 
 	extind = trellis->extpos[from_state].size - 1;
 	if (extind < 0) return; /* Empty extpos array               */
-	/* No external states to connect to */
+	/* No external states to connect to 
                
 	while ((trellis->extpos[from_state].elem[extind] > ((int) max))
 		   && (extind >= 0))
@@ -415,10 +419,10 @@ void zSubExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t i,
                    
 			/* do_return == TRUE means the feature */
 			/* is inconsistent with EST sequence   */
-			/* (see zScoreScanners function)       */
+			/* (see zScoreScanners function)       
             if (do_return)
 				{
-					extind = -1; /* force exit from loop */
+					extind = -1; /* force exit from loop 
 				}
             else
 				{
@@ -434,7 +438,7 @@ void zSubExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t i,
 
 					/* This is to avoid using negative index (-1) which */
 					/* can happen in some cases at the last iteration.  */
-					/* Insure++ complains if you don't do this!         */
+					/* Insure++ complains if you don't do this!         
 					if (extind < 0)
 						{
 							start = 0;
@@ -453,7 +457,7 @@ void zSubExplicitTrans (zTrellis *trellis, int from_state, int state, coor_t i,
             trellis->cell[i][state].submax->elem[di].end = i;
             trellis->cell[i][state].submax->elem[di].from_state = from_state;
 		}
-}
+}*/
 
 /* this function scores a single base of an */
 score_t zScoreInternalState(zTrellis *trellis, int state, 
@@ -1280,12 +1284,14 @@ void zExternalTransBack (zTrellis *trellis, int int_state,
 	}
 }
 
-#define STATE_TYPES 4
+
+/////kevin's change Explicit to external
+#define STATE_TYPES 3
 static zTransFunc zTransLookup[STATE_TYPES] = {
 	zInternalTrans, /* INTERNAL */
-	zGInternalTrans, /* GINTERNAL */
+	zGInternalTrans, /*GINTERNAL */
 	zExternalTrans, /* EXTERNAL */
-	zExplicitTrans, /* EXPLICIT */
+	zExternalTrans, /* EXTERNAL */
 };
 
 zTransFunc zGetTransFunc(int type) {
