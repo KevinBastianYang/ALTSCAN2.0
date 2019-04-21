@@ -4467,6 +4467,7 @@ zSFVec** zRunViterbiAndForward (zTrellis *trellis, score_t* path_score, zSFVSpon
 				zPushIVec(&trellis->extpos[j], i);
 			}
 			
+			/////kevin:at layer 0, MIN_INIT_SCORE is -10000, bigger than other's layers init score MIN_SCORE
 			if (trellis->cell[i][j].layer[0]->score == MIN_SCORE) {
 				trellis->cell[i][j].layer[0]->score = MIN_INIT_SCORE;
 			}
